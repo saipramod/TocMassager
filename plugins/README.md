@@ -3,6 +3,6 @@
 
 # Usage
 
-- The extension is all contained in the folder TocMassager.Docfx.Extension
+- The extension is all contained in this folder.
 - Download, unzip(if needed) and add the extension to your docfx project
 - Reference the extension in docfx.json under `template`
